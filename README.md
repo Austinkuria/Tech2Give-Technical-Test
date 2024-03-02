@@ -1,5 +1,5 @@
-# Tech2Give-Technical-Test
-This repository contains my submission of the  Tech2Give Technical Test solutions for the following six questions.
+# Teach2Give-Technical-Test
+This repository contains my submission of the  Teach2Give Technical Test solutions for the following six questions.
 
 ## Questions
 
